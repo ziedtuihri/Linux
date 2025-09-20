@@ -8,6 +8,10 @@ Each level is a puzzle that requires using commands like `ssh`, `grep`, `find`, 
 to read
 <a href="https://linuxupskillchallenge.org/01/">Linux challenges to read</a>
 
+to practice with lab labex
+
+<a href="https://labex.io/linuxjourney">big cource with lab labex </a>
+
 ## **Command Manuals** <a name="command-manuals"></a>
 Commands to access detailed documentation.
    Command               | Description                                                                 | Example                          |
