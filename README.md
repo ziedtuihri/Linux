@@ -2,8 +2,6 @@
 
 ### 📌 **What is Bandit?**
 [**Bandit**](https://overthewire.org/wargames/bandit/) is a **war game** designed to teach **Linux command-line skills** through **level-based challenges**.
-Each level is a puzzle that requires using commands like `ssh`, `grep`, `find`, `cat`, and more to progress.
-
 
 to read
 <a href="https://linuxupskillchallenge.org/01/">Linux challenges to read</a>
