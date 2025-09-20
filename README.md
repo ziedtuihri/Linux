@@ -12,6 +12,9 @@ to practice with lab labex
 
 <a href="https://labex.io/linuxjourney">big cource with lab labex </a>
 
+Search for a strange or complex command line:
+<a href="https://www.commandlinefu.com/commands/browse">complex cammand line</a>
+
 ## **Command Manuals** <a name="command-manuals"></a>
 Commands to access detailed documentation.
    Command               | Description                                                                 | Example                          |
