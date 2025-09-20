@@ -5,6 +5,9 @@
 Each level is a puzzle that requires using commands like `ssh`, `grep`, `find`, `cat`, and more to progress.
 
 
+to read
+<a href="https://linuxupskillchallenge.org/01/">Linux challenges to read</a>
+
 ## **Command Manuals** <a name="command-manuals"></a>
 Commands to access detailed documentation.
    Command               | Description                                                                 | Example                          |
