@@ -13,6 +13,13 @@ to practice with lab labex
 Search for a strange or complex command line:
 <a href="https://www.commandlinefu.com/commands/browse">complex cammand line</a>
 
+
+GitLab notes:
+<a href="https://gitlab.com/daveopspublic/lfcs-study-notes">GitLab notes with documentation</a>
+
+Github notes with Docs:
+<a href="https://github.com/cloudchristina/lfcs/tree/main"> Git hub docs with examples</a>
+
 ## **Command Manuals** <a name="command-manuals"></a>
 Commands to access detailed documentation.
    Command               | Description                                                                 | Example                          |
