@@ -13,6 +13,8 @@ to practice with lab labex
 Search for a strange or complex command line:
 <a href="https://www.commandlinefu.com/commands/browse">complex cammand line</a>
 
+Medium talking update purcentage test:
+<a href="https://medium.com/@wattsdave/linux-foundation-certified-systems-administrator-lfcs-navigating-the-study-journey-for-the-lfcs-06d9e2aa5165">midium </a>
 
 GitLab notes:
 <a href="https://gitlab.com/daveopspublic/lfcs-study-notes">GitLab notes with documentation</a>
