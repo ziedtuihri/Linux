@@ -22,6 +22,9 @@ GitLab notes:
 Github notes with Docs:
 <a href="https://github.com/cloudchristina/lfcs/tree/main"> Git hub docs with examples</a>
 
+Same questions:
+<a href="https://www.theexamslab.com/online/LFCS-practice-test">questions</a>
+
 ## **Command Manuals** <a name="command-manuals"></a>
 Commands to access detailed documentation.
    Command               | Description                                                                 | Example                          |
