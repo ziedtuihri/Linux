@@ -215,7 +215,3 @@ Optimize `find` for speed and efficiency.
 ln -s <target_path> <link_name>
 
 
-
-Issue,Cause,Solution
-"File exists" error,Target link name already exists,Use -f flag or remove existing link first
-"Invalid cross-device link",Trying to create hard link across filesystems,Use soft link inst
