@@ -25,6 +25,10 @@ Github notes with Docs:
 Same questions:
 <a href="https://www.theexamslab.com/online/LFCS-practice-test">questions</a>
 
+
+ <a href="https://kodekloud.com/courses/linux-challenges/>  Linux Challenges on kodekloud  </a>
+
+
 ## **Command Manuals** <a name="command-manuals"></a>
 Commands to access detailed documentation.
    Command               | Description                                                                 | Example                          |
