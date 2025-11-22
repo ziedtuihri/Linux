@@ -28,6 +28,7 @@ Same questions:
 
  <a href="https://kodekloud.com/courses/linux-challenges/">  Linux Challenges on kodekloud  </a>
 
+<a href="https://cheat.sh/"> cheat commands </a>
 
 ## **Command Manuals** <a name="command-manuals"></a>
 Commands to access detailed documentation.
