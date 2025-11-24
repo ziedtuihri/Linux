@@ -30,6 +30,8 @@ Same questions:
 
 <a href="https://cheat.sh/"> cheat commands </a>
 
+<a href="https://notes.kodekloud.com/docs/Linux-Foundation-Certified-System-Administrator-LFCS/Operations-Deployment/Use-Scripting-to-Automate-System-Maintenance-Tasks">Best kodekloud docs </a>
+
 ## **Command Manuals** <a name="command-manuals"></a>
 Commands to access detailed documentation.
    Command               | Description                                                                 | Example                          |
